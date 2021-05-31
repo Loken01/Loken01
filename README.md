@@ -7,8 +7,11 @@
 ### Connect with me:
 
 [<img alt="ambertailgames.com" width="22px" fill="red" src="./images/at_dark.png"/>][atWebsite]
+&nbsp;
 [<img alt="twitter.com/loken01" width="22px" src="./images/twitter.png"/>][twitter]
+&nbsp;
 [<img alt="linkedin.com/in/noel-watters" width="22px" src="./images/linkedin.png"/>][linkedin]
+&nbsp;
 [<img alt="instagram.com/loken01" width="22px" src="./images/instagram.png"/>][instagram]
 <br>
 
