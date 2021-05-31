@@ -68,7 +68,7 @@
 
 ---
 
-[![Loken01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loken01&show_icons=true&theme=dradarkcula)](https://github.com/Loken01)
+[![Loken01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loken01&show_icons=true&theme=dark)](https://github.com/Loken01)
 
 [atWebsite]: https://ambertailgames.com
 [atTwitter]: https://twitter.com/AmbertailGames
