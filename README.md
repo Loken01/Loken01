@@ -80,4 +80,6 @@
 [atWebsite]: https://ambertailgames.com
 [atTwitter]: https://twitter.com/AmbertailGames
 [twitter]: https://twitter.com/loken01
+[linkedin]: https://www.linkedin.com/in/noel-watters
+[instagram]: https://www.instagram.com/loken01
 [github]: https://github.com/Loken01
