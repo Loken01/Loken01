@@ -68,7 +68,7 @@
 
 ---
 
-  <img alt="Loken01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Loken01&show_icons=true&hide_border=true" />
+[![Loken01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loken01&show_icons=true&theme=dradarkcula)](https://github.com/Loken01)
 
 [atWebsite]: https://ambertailgames.com
 [atTwitter]: https://twitter.com/AmbertailGames
