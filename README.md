@@ -6,10 +6,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" fill="red" src="./images/at_icon_dark.png"/>][atWebsite]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://simpleicons.org/icons/twitter.svg" style="filter: invert(75%) sepia(50%) saturate(7400%) hue-rotate(176deg) brightness(99%) contrast(92%);"/>][twitter]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://simpleicons.org/icons/linkedin.svg" style="filter: invert(24%) sepia(99%) saturate(1342%) hue-rotate(193deg) brightness(102%) contrast(99%);"/>][linkedin]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://simpleicons.org/icons/instagram.svg" style="filter: invert(32%) sepia(83%) saturate(2215%) hue-rotate(328deg) brightness(96%) contrast(86%);"/>][instagram]
+[<img align="left" alt="ambertailgames.com" width="22px" fill="red" src="./images/at_dark.png"/>][atWebsite]
+[<img align="left" alt="twitter.com/loken01" width="22px" src="./images/twitter.png"/>][twitter]
+[<img align="left" alt="linkedin.com/in/noel-watters" width="22px" src="./images/linkedin.png"/>][linkedin]
+[<img align="left" alt="instagram.com/loken01" width="22px" src="./images/instagram.png"/>][instagram]
 <br>
 
 ---
@@ -20,5 +20,5 @@
 [twitter]: https://twitter.com/loken01
 
 [twitter]: https://twitter.com/loken01
-[instagram]: https://instagram.com/loken01
 [linkedin]: https://www.linkedin.com/in/noel-watters
+[instagram]: https://instagram.com/loken01
