@@ -16,6 +16,7 @@
 
 <details>
     <summary>:wrench: Tools</summary>
+    <br/>
     &emsp;
     <img style="padding-left:2em" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
     &nbsp;
@@ -35,6 +36,7 @@
 <br/>
 <details>
     <summary>:pencil: Languages</summary>
+    <br/>
     &emsp;
     <img style="padding-left:2em" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
     &nbsp;
@@ -56,6 +58,7 @@
 <br/>
 <details>
     <summary>:computer: Operating Systems</summary>
+    <br/>
     &emsp;
     <img style="padding-left:2em" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
     &nbsp;
