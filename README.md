@@ -73,9 +73,9 @@
 
 [![Loken01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loken01&show_icons=true&theme=dark)][github]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loken01)][github]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loken01&theme=dark)][github]
 
-[![Loken01's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Loken01)][github]
+[![Loken01's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Loken01&theme=dark)][github]
 
 [atWebsite]: https://ambertailgames.com
 [atTwitter]: https://twitter.com/AmbertailGames
