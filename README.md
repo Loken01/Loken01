@@ -71,12 +71,13 @@
 
 ---
 
-[![Loken01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loken01&show_icons=true&theme=dark)](https://github.com/Loken01)
+[![Loken01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loken01&show_icons=true&theme=dark)][github]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loken01)][github]
+
+[![Loken01's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Loken01)][github]
 
 [atWebsite]: https://ambertailgames.com
 [atTwitter]: https://twitter.com/AmbertailGames
 [twitter]: https://twitter.com/loken01
-
-[twitter]: https://twitter.com/loken01
-[linkedin]: https://www.linkedin.com/in/noel-watters
-[instagram]: https://instagram.com/loken01
+[github]: https://github.com/Loken01
