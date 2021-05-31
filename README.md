@@ -1,17 +1,25 @@
-### Hi there, I'm Noel - aka [Loken01][website] 👋
+### Hi there, I'm Noel - aka [Loken01][twitter] 👋
 
-[![Website](https://img.shields.io/website?label=AMBERTAIL%20GAMES&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fwww.ambertailgames.com)](https://ambertailgames.com)
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/loken01?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+[![Ambertail Games](https://img.shields.io/website?label=AMBERTAIL%20GAMES&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fwww.ambertailgames.com)][atWebsite]
+[![Follow Ambertail Games on Twitter](https://img.shields.io/twitter/follow/AmbertailGames?color=FF9525&logo=twitter&logoColor=FF9525&style=for-the-badge)][atTwitter]
 
-## I'm a Husband, Father, Developer, and Teacher!!
+### Connect with me:
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+[<img align="left" alt="codeSTACKr.com" width="22px" fill="red" src="https://raw.githubusercontent.com/Loken01/Loken01/main/images/at_icon_dark.png" />][atWebsite]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/instagram.svg" />][instagram]
 
-### Spotify Playing 🎧
+<br>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+---
+  <img align="left" alt="Loken01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Loken01&show_icons=true&hide_border=true" />
+
+[atWebsite]: https://ambertailgames.com
+[atTwitter]: https://twitter.com/AmbertailGames
+[twitter]: https://twitter.com/loken01
+
+[twitter]: https://twitter.com/loken01
+[instagram]: https://instagram.com/loken01
+[linkedin]: https://www.linkedin.com/in/noel-watters
