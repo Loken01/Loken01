@@ -1,10 +1,10 @@
-### Hi there, I'm Noel - aka [Loken01][twitter] 👋
+### Hi there, I'm Noel - aka [Loken01][twitter] 👋✨
 
 <h3 align="center">A passionate game developer from Northern Ireland</h3>
 
-- 🔭 I’m currently working on [Amber Isle][atWebsite]
+- 🔭 I’m currently working on [Amber Isle][atWebsite]: A cosy, shop management/social sim- with dinosaurs 🦖💛
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** albeit slowly...
 
 - 📫 How to reach me **noel@ambertailgames.com**
 
