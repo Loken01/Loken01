@@ -1,5 +1,13 @@
 ### Hi there, I'm Noel - aka [Loken01][twitter] 👋
 
+<h3 align="center">A passionate game developer from Northern Ireland</h3>
+
+- 🔭 I’m currently working on [Amber Isle][atWebsite]
+
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **noel@ambertailgames.com**
+
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/loken01?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 [![Ambertail Games](https://img.shields.io/website?label=AMBERTAIL%20GAMES&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fwww.ambertailgames.com)][atWebsite]
 [![Follow Ambertail Games on Twitter](https://img.shields.io/twitter/follow/AmbertailGames?color=FF9525&logo=twitter&logoColor=FF9525&style=for-the-badge)][atTwitter]
@@ -21,13 +29,15 @@
     <summary>:wrench: Tools</summary>
     <br/>
     &emsp;
-    <img style="padding-left:2em" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
+    <img style="padding-left:2em" alt="Unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
     &nbsp;
-    <img alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" />
+    <img alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />
     &nbsp;
     <img alt="Jetbrains Rider1" width="26px" src="./images/rider.png"/>
     &nbsp;
     <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    &nbsp;
+    <img alt="Blender" width="26px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
     &nbsp;
     <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
     &nbsp;
@@ -37,12 +47,14 @@
     <br/>
 </details>
 <details>
-    <summary>:pencil: Languages</summary>
+    <summary>:pencil: Languages & Platforms</summary>
     <br/>
-    &emsp;
-    <img style="padding-left:2em" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+    &emsp; 
+    <img style="padding-left:2em" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
     &nbsp;
-    <img alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+    <img alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+    &nbsp;    
+    <img alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
     &nbsp;
     <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     &nbsp;
@@ -55,6 +67,8 @@
     <img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
     &nbsp;
     <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+    &nbsp;
+    <img alt="OpenCV" width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
     <br/>
 </details>
 <details>
