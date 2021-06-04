@@ -8,10 +8,14 @@
 
 - 📫 How to reach me **noel@ambertailgames.com**
 
+<div align="center">
+    
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/loken01?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 [![Ambertail Games](https://img.shields.io/website?label=AMBERTAIL%20GAMES&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fwww.ambertailgames.com)][atWebsite]
 [![Follow Ambertail Games on Twitter](https://img.shields.io/twitter/follow/AmbertailGames?color=FF9525&logo=twitter&logoColor=FF9525&style=for-the-badge)][atTwitter]
 
+</div>
+    
 ### Connect with me:
 
 [<img alt="ambertailgames.com" width="22px" fill="red" src="./images/at_dark.png"/>][atWebsite]
@@ -85,11 +89,27 @@
 
 ---
 
+### Stats:
+
+<div align="center">
+
 [![Loken01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loken01&show_icons=true&theme=dark)][github]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loken01&theme=dark&layout=compact)][github]
 
 [![Loken01's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Loken01&theme=dark&layout=compact)][github]
+
+</div>
+    
+---
+
+### Currently listening to:
+
+<div align="center">
+    
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=noel_watters&cover_image=true&theme=novatorem)][github]
+    
+</div>
 
 [atWebsite]: https://ambertailgames.com
 [atTwitter]: https://twitter.com/AmbertailGames
@@ -97,3 +117,8 @@
 [linkedin]: https://www.linkedin.com/in/noel-watters
 [instagram]: https://www.instagram.com/loken01
 [github]: https://github.com/Loken01
+
+<!--- 
+Find the github-readme-stats widgets at https://github.com/anuraghazra/github-readme-stats 
+Find the spotify widget at https://github.com/kittinan/spotify-github-profile
+--->
