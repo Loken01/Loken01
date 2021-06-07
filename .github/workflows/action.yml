@@ -31,12 +31,7 @@ jobs:
           plugin_languages_recent.load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_tweets: yes
-          plugin_tweets_limit: 2
-          plugin_tweets_user: Lokeen01
-          plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: Loken01
+          plugin_licenses: yes
+          plugin_licenses_legal: yes
+          plugin_licenses_ratio: yes
+          plugin_lines: yes
