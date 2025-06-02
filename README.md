@@ -1,4 +1,4 @@
-### Hi there, I'm Noel - aka [Loken01][twitter] 👋✨
+### Hi there, I'm Indy - aka [Loken01][twitter] 👋✨
 
 <h3 align="center">A passionate game developer from Northern Ireland</h3>
 
